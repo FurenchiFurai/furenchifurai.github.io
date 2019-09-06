@@ -29,6 +29,6 @@ Surpsingly I thought this part was going to be the most difficult to achieve, bu
 
 What I found easiest to do, was to simply create the repository which would be to use `<username>.github.io` as the repository name and then head off from there. 
 
-Then head to your settings for that specific repository, and scroll down to **Github Pages** and you are able to choose a theme that works, which in my case chose *Slate* and all markdown pages `.md` should import the configuration settings from the `_config.yml` file.
+Then head to your settings for that specific repository, and scroll down to **Github Pages** section and you are able to choose a theme that works, which in my case chose *Slate* and all markdown pages `.md` should automatically import the configuration settings from the `_config.yml` file. From there, you can populate the repository with your files to show online.
 
-Unfortunately, while i was doing this, I accidentally set my [README](https://furenchifurai.github.io) to be the mainpage of my site, so for the time being, I'll keep that until I find a fix for it. 
+Unfortunately, while I was doing this, I accidentally set my [README](https://furenchifurai.github.io) to be the mainpage of my site, so for the time being, I'll keep that until I find a fix for it in the near future. 
