@@ -31,4 +31,4 @@ What I found easiest to do, was to simply create the repository which would be t
 
 Then head to your settings for that specific repository, and scroll down to **Github Pages** and you are able to choose a theme that works, which in my case chose *Slate* and all markdown pages `.md` should import the configuration settings from the `_config.yml` file.
 
-Unfortunately, while i was doing this, I accidentally set my [README](furenchifurai.github.io) to be the mainpage of my site, so for the time being, I'll keep that until I find a fix for it. 
+Unfortunately, while i was doing this, I accidentally set my [README](https://furenchifurai.github.io) to be the mainpage of my site, so for the time being, I'll keep that until I find a fix for it. 
