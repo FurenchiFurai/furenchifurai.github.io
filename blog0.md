@@ -14,7 +14,7 @@ $ mkdir cit160/etc
 $ cd cit160/etc
 ```
 
-The third command was giving me the error, and in hindsight I did something wrong in a very stupid way. :triumph:
+The third command was giving me the error, and in hindsight I did something wrong in a very stupid way.
 ```
 $ scp <UID>@ssh.sandbox.csun.edu:~steve/cit160/etc/dockerfile .
 ```	
@@ -25,5 +25,4 @@ And so after trying multiple times, I consulted a friend who had taken this spec
 
 ### Creating this webpage and using Jekyll/Markdown
 
-
-Just testing to see how this looks for now
+Surpsingly I thought this part was going to be the most difficult to achieve, but after fiddling with tutorials and the settings in the repository and creating/deleting some failed ones I was able to get Jekyll to work.
