@@ -1,7 +1,11 @@
 
-Blog 1 (September 6, 2019)
----
+# Blog 1 (September 6, 2019)
 
-###Testing
+## CIT160 Lab and small issues
+
+
+
+## Installing and Using Jekyll
+
 
 Just testing to see how this looks for now
