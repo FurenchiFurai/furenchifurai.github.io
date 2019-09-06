@@ -14,9 +14,14 @@ $ mkdir cit160/etc
 $ cd cit160/etc
 ```
 
-The third command `$ scp <UID>@ssh.sandbox.csun.edu:~steve/cit160/etc/dockerfile .` was giving me the error, and in hindsight I did 2 major things wrong.
+The third command was giving me the error, and in hindsight I did something wrong in a very stupid way.
+`$ scp <UID>@ssh.sandbox.csun.edu:~steve/cit160/etc/dockerfile .`
 
-### Installing and Using Jekyll
+The thing I did wrong was when ran the command, out of habit when reading a command, I replaced `~steve` with my own username.  Since I did got it to work, I can say that it was just poor knowledge and overlooking the bash command. 
+
+And so after trying multiple times, I consulted a friend who had taken this specific class the previous semester and he told me to simply type it verbatim, which worked perfectly. If I had read the instructions more carefully, I would understand that the only time I would have ever needed to supply any of my own information was when I saw the `<USER>` part appear. 
+
+### Creating this webpage and using Jekyll/Markdown
 
 
 Just testing to see how this looks for now
