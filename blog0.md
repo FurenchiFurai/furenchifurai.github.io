@@ -14,7 +14,7 @@ $ mkdir cit160/etc
 $ cd cit160/etc
 ```
 
-The third command was giving me the error, and in hindsight I did something wrong in a very stupid way.
+The third command was giving me the error, and in hindsight I did something wrong in a very stupid way. :triumph:
 ```
 $ scp <UID>@ssh.sandbox.csun.edu:~steve/cit160/etc/dockerfile .
 ```	
