@@ -15,7 +15,8 @@ $ cd cit160/etc
 ```
 
 The third command was giving me the error, and in hindsight I did something wrong in a very stupid way.
-```$ scp <UID>@ssh.sandbox.csun.edu:~steve/cit160/etc/dockerfile .
+```
+$ scp <UID>@ssh.sandbox.csun.edu:~steve/cit160/etc/dockerfile .
 ```	
 
 The thing I did wrong was when ran the command, out of habit when reading a command, I replaced `~steve` with my own username.  Since I did got it to work, I can say that it was just poor knowledge and overlooking the bash command. 
