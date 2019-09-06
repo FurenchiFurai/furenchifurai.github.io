@@ -26,3 +26,5 @@ And so after trying multiple times, I consulted a friend who had taken this spec
 ### Creating this webpage and using Jekyll/Markdown
 
 Surpsingly I thought this part was going to be the most difficult to achieve, but after fiddling with tutorials and the settings in the repository and creating/deleting some failed ones I was able to get Jekyll to work.
+
+What I found easiest to do, was to simply create the repository which would be to use `<username>.github.io` as the repository name and then head off from there.
