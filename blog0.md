@@ -32,3 +32,5 @@ What I found easiest to do, was to simply create the repository which would be t
 Then head to your settings for that specific repository, and scroll down to **Github Pages** section and you are able to choose a theme that works, which in my case chose *Slate* and all markdown pages `.md` should automatically import the configuration settings from the `_config.yml` file. From there, you can populate the repository with your files to show online.
 
 Unfortunately, while I was doing this, I accidentally set my [README](https://furenchifurai.github.io) to be the mainpage of my site, so for the time being, I'll keep that until I find a fix for it in the near future. 
+
+***This is my first time writing a blog post, so I am not sure if there are things needed to be added/removed and whether this is too short/long***
