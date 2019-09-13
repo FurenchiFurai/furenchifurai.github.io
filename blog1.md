@@ -15,7 +15,6 @@ The main difficulty for me was editing the `.conf` files so the whole thing goes
 
 
 
-
 ### Other things in life (mainly gaming)
 
 Borderlands 3 came out this week, and watching the gameplay of that is really tempting me to get it, however I am not fond of the game launcher that they are currently exclusive on, so for now I will wait till it comes on Steam.  
