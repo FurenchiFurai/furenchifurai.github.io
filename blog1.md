@@ -5,7 +5,7 @@
 So running through the first lab was pretty simple, just throwing each command into the terminal and seeing the output, not many issues and the application was shown correct on the page. Easy peasy LAMP stack.
 
 ###### Voila
-![LAMP Stack](https://github.com/FurenchiFurai/furenchifurai.github.io/blob/master/LAMP%20stack.png)
+![LAMP Stack](https://github.com/FurenchiFurai/furenchifurai.github.io/blob/master/LAMP%20stack.png?raw=true)
 
 Now it was time to configure the Dockerfile, to encompass the whole lab, so that another user could `scp` it into their own docker container and generate the same webpage in one motion. 
 
