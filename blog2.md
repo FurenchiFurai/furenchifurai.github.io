@@ -22,9 +22,9 @@ CMD /bin/bash
 
 Now the most difficult part was learning Ansible since I am not familiar with automation and I would have to learn the correct way to set up it up. 
 
-I am partially done with my lab but there are so many things I still do not understand with the language and how it works that it makes it difficult to do things without testing frequently.
-
 I started with Playbook #2, since it was just lab1 but in ansible version, which should be relatively easier since the cloning can be done in a much simpler way.
+
+I am partially done with my lab but there are so many things I still do not understand with the language and how it works that it makes it difficult to do things without testing frequently.
 
 ### Other things during the week
 
