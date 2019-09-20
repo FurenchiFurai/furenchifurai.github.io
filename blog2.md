@@ -5,6 +5,22 @@
 So I am one of the people that decided to do Ansible in Docker, and it is been a little hit or miss in terms of using ansible.  For starters, I was rushing a bit and was wondering why I could'nt use `sudo` , then realized that in the _the actual lab_ page it says that you need to install `sudo` to use it for Docker. **_facepalm_**
 
 
+I found a handy [stackoverflow](https://stackoverflow.com/q/25845538) link to help me get this to work (I changed the ubuntu version to **latest** since that is what I was using)
+
+Simply put:
+```
+FROM ubuntu:latest
+
+RUN apt-get update && \
+      apt-get -y install sudo
+
+RUN useradd -m docker && echo "docker:docker" | chpasswd && adduser docker sudo
+
+USER docker
+CMD /bin/bash
+```
+
+Now the most difficult part was learning Ansible since I am not familiar with automation and I would have to learn the correct way to set up it up.
 
 ### Other things during the week
 
