@@ -32,4 +32,5 @@ Playing through Borderlands 3 is very fun and I just recently beat the game and 
 Also this coming Tuesday is Destiny 2 Shadowkeep
 
 Here is the trailer:
+
 [![Destiny 2 Shadowkeep](http://img.youtube.com/vi/LFYJTudJ540/0.jpg)](https://www.youtube.com/watch?v=LFYJTudJ540 "Destiny 2 Shadowkeep")
