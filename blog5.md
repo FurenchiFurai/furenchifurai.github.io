@@ -21,6 +21,12 @@ pip3 install ansible
 sed -i -e 's/^\(Defaults\s*requiretty\)/#--- \1/'  /etc/sudoers
 ansible --version
 ```
-From what I could understand, some packages were installed, and using `pip3` to install `ansible` then giving permissions in the `/etc/sudoers` to have ansible run as `root`
+From what I could understand, some packages were installed, and then using `pip3` to install `ansible`, then giving permissions in the `/etc/sudoers` to have ansible run as `root`
+
+That fixed the installation of Ansible onto my instance, so then the rest of my job was to make sure I was able to get a LAMP stack running on CentOS (which on its own was a whole different monster, since we only did it with Ubuntu in a previous lab).  I am still currently working on it and testing as I go along.
 
 ### Other things during the week
+
+This week was a bit different, a little more stressful with the project and another project from another class were being due on a simnilar timeframe, forcing me to delegate time to do one or the other, instead of focusing all of my time into one.  
+
+Aside from all of this, during my "rest", I was catching up on some YouTube series and playing games to take my mind off of the projects.  Both games I play have had some QOL updates to them so I am really looking forward to having a full rest once these projects are done.
