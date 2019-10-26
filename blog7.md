@@ -28,4 +28,15 @@ From my research and testing, I found that the most common commands used were
 ldapadd is the command used to add content into your LDAP server.  The content is added through a `.ldif` file and must contain specific attributes for the user to be created. As an example, the following picture is one I did for our professor of CIT496, Adam Kaplan
 ![ldapadd](https://github.com/FurenchiFurai/furenchifurai.github.io/blob/master/ldapadd.png?raw=true)
 
+##### ldapmodify
+
+ldapmodify is the command used to modify existing entries in your LDAP server. This command could be done with or without the `.ldif` file and can also be used to delete entries as well.  This was one of the more rare commands, but still is prevalent when using it with the translucent proxy.
+
+##### ldapdelete 
+
+ldapdelete is the command used to delete exiting entries in your LDAP server.  From my experience, I only used this command a handful of times because I never really needed to delete the test users I was creating. However, the deletion does have a rule where if an entry is a "parent node", it cannot be deleted without deleting all child entries/nodes first. 
+
+##### ldapsearch
+
+ldapsearch is the command used to query up entries on the LDAP server, and can filter out specific attributes on entries.  This was my most used command since I mainly used the majority of it to make sure the entries were being added/modified correctly
 
