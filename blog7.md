@@ -26,6 +26,6 @@ From my research and testing, I found that the most common commands used were
 ##### ldapadd
 
 ldapadd is the command used to add content into your LDAP server.  The content is added through a `.ldif` file and must contain specific attributes for the user to be created. As an example, the following picture is one I did for our professor of CIT496, Adam Kaplan
-
+![ldapadd](https://github.com/FurenchiFurai/furenchifurai.github.io/blob/master/ldapadd.png?raw=true)
 
 
