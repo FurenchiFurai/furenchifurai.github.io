@@ -30,13 +30,16 @@ ldapadd is the command used to add content into your LDAP server.  The content i
 
 ##### ldapmodify
 
-ldapmodify is the command used to modify existing entries in your LDAP server. This command could be done with or without the `.ldif` file and can also be used to delete entries as well.  This was one of the more rare commands, but still is prevalent when using it with the translucent proxy.
+ldapmodify is the command used to modify existing entries in your LDAP server. This command could be done with or without the `.ldif` file and can also be used to delete entries as well.  This was one of the more rare commands, but still is prevalent when using it with the translucent proxy. Here is an example where I modify a test user and change the attribute mobile. 
+![ldapmodify](https://github.com/FurenchiFurai/furenchifurai.github.io/blob/master/ldapmodify.png?raw=true)
 
 ##### ldapdelete 
 
-ldapdelete is the command used to delete exiting entries in your LDAP server.  From my experience, I only used this command a handful of times because I never really needed to delete the test users I was creating. However, the deletion does have a rule where if an entry is a "parent node", it cannot be deleted without deleting all child entries/nodes first. 
+ldapdelete is the command used to delete exiting entries in your LDAP server.  From my experience, I only used this command a handful of times because I never really needed to delete the test users I was creating. However, the deletion does have a rule where if an entry is a "parent node", it cannot be deleted without deleting all child entries/nodes first. Here is an example where I deleted a test user, and searching for them shows no mathing entries.
+![ldapdelete](https://github.com/FurenchiFurai/furenchifurai.github.io/blob/master/ldapdelete.png?raw=true)
 
 ##### ldapsearch
 
-ldapsearch is the command used to query up entries on the LDAP server, and can filter out specific attributes on entries.  This was my most used command since I mainly used the majority of it to make sure the entries were being added/modified correctly
+ldapsearch is the command used to query up entries on the LDAP server, and can filter out specific attributes on entries.  This was my most used command since I mainly used the majority of it to make sure the entries were being added/modified correctly. Here is an example where I search for all the users with a specifc `gidNumber` and filter out by their DN (distinguished name) and UID.
+![ldapsearch](https://github.com/FurenchiFurai/furenchifurai.github.io/blob/master/ldapsearch.png?raw=true)
 
