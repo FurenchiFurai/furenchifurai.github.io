@@ -6,7 +6,7 @@ Since it is one of the most common tools used in industry to do any work remotel
 
 #### What is SSH
 
-So doing a quick Google search will give you a ![wikipedia article](https://en.wikipedia.org/wiki/Secure_Shell) that states the history of the tool. But the given definition is "a crypotgraphic network protocol for operating network services securely over an unsecure network". Sinmply put, a tool used to access secure resources 
+So doing a quick Google search will give you a [wikipedia article](https://en.wikipedia.org/wiki/Secure_Shell) that states the history of the tool. But the given definition is "a crypotgraphic network protocol for operating network services securely over an unsecure network". Sinmply put, a tool used to access secure resources 
 
 The first instance most CSUN CIT students will have of this would be in CIT 160 where they are tasked to SSH into a server and run a few bash commands on the command line.  They would connect to a server using the command `ssh <server name>` through port 22.
 
