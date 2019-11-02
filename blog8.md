@@ -45,4 +45,6 @@ This encryption method is used to securely send the symmetric key (from above) t
 
 ##### Hashing
 
-The final method of encryption is not used for any form of communciation but used to test the authenticity of the message.  
+The final method of encryption is not used for any form of communciation but used to test the authenticity of the message.  Basically the message goes through an irreversible function that always creates the same output. If any part of the input is changed, even by 1 bit, then the whole output is changed. 
+
+The message will usally be sent with the hash, and the receiver can determine whether the message was tampered with or not by running the message through the same hashing function and comparing the outputs.
