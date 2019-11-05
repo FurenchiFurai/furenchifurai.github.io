@@ -8,13 +8,13 @@ Resuming the topic from last week's blog, SSH uses multiple forms of encryption,
 
 Lets say we have 2 people trying to communicate to each other, Alice and Bob
 
-Both agree on a prime number, _p_ and a base number _g_ 
+Both agree on a prime number, **_p_** and a base number **_g_** 
 
-Alice will choose a random (large) number called _a_ and compute the equation
+Alice will choose a random (large) number called **_a_** and compute the equation
 ![]()
-She will send Bob the value _A_
+She will send Bob the value **_A_**
 
-Bob will choose a random (large) number called _b_ and compute the same equation
+Bob will choose a random (large) number called **_b_** and compute the same equation
 ![]()
-He will send Alice the value of _B_
+He will send Alice the value of **_B_**
 
