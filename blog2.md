@@ -35,5 +35,5 @@ As for my personal life, my uncle actually got me Borderlands 3, so in my spare 
 Also, one of the other games that I play alot is Destiny 2, and since there is an upcoming DLC coming to the game in the near future, the company has been putting out more info about the new features that is being implemented.  I'm really excited for that as well since its been one of my main games to play over the summer. 
 
 **Picture of the DLC:**
-![Shadowkeep](https://github.com/FurenchiFurai/furenchifurai.github.io/blob/master/Destiny%202%20Shadowkeep.png?raw=true)
+![Shadowkeep](https://github.com/FurenchiFurai/furenchifurai.github.io/blob/master/images/Destiny%202%20Shadowkeep.png?raw=true)
 
