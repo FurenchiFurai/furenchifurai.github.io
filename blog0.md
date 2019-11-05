@@ -6,7 +6,7 @@
 So the first thing I did was to start the CIT160L assignment to get Docker ready and installed. However while traversing through the assignment, there was one part that gave me trouble for around 30 mins. 
 
 The Trouble: 
-![Trouble](https://github.com/FurenchiFurai/furenchifurai.github.io/blob/master/cit160%20lab%20errors.png?raw=true)
+![Trouble](https://github.com/FurenchiFurai/furenchifurai.github.io/blob/master/images/cit160%20lab%20errors.png?raw=true)
 
 The first two commands did not give me issues too much, created the `etc` directory then navigated to it. Simple
 ```
