@@ -41,3 +41,6 @@ We do this in an example (below), and you can see that both values of **_S_** ar
 
 ![example](https://github.com/FurenchiFurai/furenchifurai.github.io/blob/master/images/blog9_example.png?raw=true)
 
+#### Significance?
+
+In this method, both parties only send a value (**_A_** or **_B_**) after both secrets go through the equation.  Both values of **_A_** and **_B_** are unique and because the equation uses modulus which takes the remainder and it is almost impossible to reverse-engineer the secret value from the remainder alone.  So even if someone was sniffing on the connection and were able to grab both numbers, they would not be able to decrypt any of the messages without knowing the secrets from both parties.
