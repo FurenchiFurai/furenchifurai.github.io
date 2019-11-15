@@ -8,7 +8,7 @@ Basically put, it is a more visual method of solving Boolean algebra and is main
 
 But before we go into K-Maps we must need to understand some Boolean algebra to use the shortcut.
 
-##### Starting off, what is Boolean algebra?
+#### Starting off, what is Boolean algebra?
 
 So Boolean algebra according to [Wikipedia]() is a branch of algebra where the values are truth values `true` and `false` usually denoted as 1 or 0.
 
@@ -16,7 +16,7 @@ Equations uses multiple different operations with specific truth values to come 
 
 There are 3 basic operations that Boolean algebra uses, **AND**, **OR**, and **NOT**
 
-##### AND Operation
+#### AND Operation
 
 The **AND** operation is quite simple as it requires both variables to be the same in order to get a `true` value.
 
@@ -34,7 +34,7 @@ i.e.
 
 In electrical/computer engineering, the **AND** operator is also known as the **AND** gate
 
-##### OR Operation
+#### OR Operation
 
 The **OR** operation is a bit different from the **AND** operation as it requires only of the variables to be the same to get a `true` value
 
@@ -52,5 +52,5 @@ i.e.
 
 In electrical/computer engineering, the **AND** operator is also known as the **OR** gate
 
-##### NOT Operation
+#### NOT Operation
 
