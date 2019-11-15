@@ -50,7 +50,20 @@ i.e.
 
 `1 + 1 = 1`	(Both values are true, only one is needed, so output is true)
 
-In electrical/computer engineering, the **AND** operator is also known as the **OR** gate
+In electrical/computer engineering, the **OR** operator is also known as the **OR** gate
 
 #### NOT Operation
 
+The **NOT** operation is the easiest of the basic 3, as it just flips the value of the variable 
+
+The **NOT** symbol is usually a horizontal bar above the variable, however the "**!**" also works when the former is not applicable
+
+i.e.
+
+`!0 = 1`	("Not" false equals true)
+
+`!1 = 0`	("Not" true equals false)
+
+In electrical/computer engineering, the **NOT** operator is just known as **NOT** and is usually combined with **AND** and **OR** operators to change the value of the output.  
+
+Next weeks blog will go into more detail about boolean algebra and have multivariable equations with all operations.
