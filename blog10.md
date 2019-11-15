@@ -22,7 +22,8 @@ The **AND** operation is quite simple as it requires both variables to be the sa
 
 The **AND** symbol is usually a multiplicative dot, but because this blog is in Markdown, I am not able to simulate that symbol. So for now it will be an "**x**"
 
-i.e. 
+i.e.
+
 `0 x 0 = 0` (Both values are false, therefore the output is false)
 
 `0 x 1 = 0`	(Only one value is true, but both are not, so output is false)
@@ -40,10 +41,16 @@ The **OR** operation is a bit different from the **AND** operation as it require
 The **OR** symbol is denoted as a **+** in operations
 
 i.e.
-0 + 0 = 0	(Both values are false, therefore the output is false)
-0 + 1 = 1	(Only one value is true, only one is needed, so output is true)
-1 + 0 = 1	(Only one value is true, only one is needed, so output is true)
-1 + 1 = 1	(Both values are true, only one is needed, so output is true)
+
+`0 + 0 = 0`	(Both values are false, therefore the output is false)
+
+`0 + 1 = 1`	(Only one value is true, only one is needed, so output is true)
+
+`1 + 0 = 1`	(Only one value is true, only one is needed, so output is true)
+
+`1 + 1 = 1`	(Both values are true, only one is needed, so output is true)
 
 In electrical/computer engineering, the **AND** operator is also known as the **OR** gate
+
+##### NOT Operation
 
