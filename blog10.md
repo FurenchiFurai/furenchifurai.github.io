@@ -23,10 +23,13 @@ The **AND** operation is quite simple as it requires both variables to be the sa
 The **AND** symbol is usually a multiplicative dot, but because this blog is in Markdown, I am not able to simulate that symbol. So for now it will be an "**x**"
 
 i.e. 
-0 x 0 = 0 	(Both values are false, therefore the output is false)
-0 x 1 = 0	(Only one value is true, but both are not, so output is false)
-1 x 0 = 0	(Only one value is true, but both are not, so output is false)
-1 x 1 = 0	(Both values are true, therefore the output is true)
+`0 x 0 = 0` (Both values are false, therefore the output is false)
+
+`0 x 1 = 0`	(Only one value is true, but both are not, so output is false)
+
+`1 x 0 = 0`	(Only one value is true, but both are not, so output is false)
+
+`1 x 1 = 0`	(Both values are true, therefore the output is true)
 
 In electrical/computer engineering, the **AND** operator is also known as the **AND** gate
 
