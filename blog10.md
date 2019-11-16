@@ -1,4 +1,4 @@
-# Blog 9 (November 15, 2019)
+# Blog 10 (November 15, 2019)
 
 ### Topic - Karnaugh Map (K-Map) Part 1
 
