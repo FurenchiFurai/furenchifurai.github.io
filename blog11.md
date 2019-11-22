@@ -31,17 +31,17 @@ Suprising it is simple to regular algebra
 
 Take for example the following expression: 
 
-![]()
+![kmap_ex1](https://github.com/FurenchiFurai/furenchifurai.github.io/blob/master/images/kmap_ex1.png?raw=true)
 
 How would it be simplified? 
 
 We would factor out **B**, then because **A + !A** is **A OR !A** the value will be 1(true) so we would end with B
 
-![]()
+![kmap_ex2](https://github.com/FurenchiFurai/furenchifurai.github.io/blob/master/images/kmap_ex2.png?raw=true)
 
 Lets take another example:
 
-![]()
+![kmap_ex3](https://github.com/FurenchiFurai/furenchifurai.github.io/blob/master/images/kmap_ex3.png?raw=true)
 
 From the first 2 variable sections, we factor out **BCD** and get **A + !A**, which we saw from before becomes 1(true). The output of this is now BCD from the first step.
 
@@ -51,6 +51,6 @@ We are now left with **BCD + B!CD**
 
 From this, **BD** are factored out to get **C + !C** which like above equals 1(true), so therefore the result of the simplification is **BD**
 
-![]()
+![kmap_ex4](https://github.com/FurenchiFurai/furenchifurai.github.io/blob/master/images/kmap_ex4.png?raw=true)
 
 As you can see, doing this by hand could get very tiring and could also get very hard to track variables if there are many of them.  So we will be showing off the K-maps method which considerably makes this entire process simpler.
