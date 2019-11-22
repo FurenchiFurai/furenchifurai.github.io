@@ -11,4 +11,46 @@ The operators function as follows:
 - **OR** requires only one of the variables to be 1(true) or the output is 0(false) 
 - **NOT** just flips the boolean value from 0(false) to 1(true) and 1(true) to 0(false)
 
+Since not all operations or expressions are going to be basic, there should be ways to simplify when there are multiple variables with multiple operators. In this case, the first method of simplication/minimalization is through algebraic means, and the second method is K-maps, will be showcased next week.
 
+#### Starting Off, why should there be circuit simplication?
+
+As said last week, these operations are also used in circuitry to calculate outopuit.  But why should we simplify these equations?
+
+Like in programming, a longer program usually takes longer to execute, and that is also shared with long circuits. 
+
+Bigger circuits usually equals bigger chippers which equals higher cost (exponentially)
+
+Longer circuits equate to more time required for electrons to flow through, resulting in a slower execution.
+
+From this, simplying boolean equations (circuits) makes it better for cost and effciency.
+
+#### How to simply circuits
+
+Suprising it is simple to regular algebra
+
+Take for example the following expression: 
+
+![]()
+
+How would it be simplified? 
+
+We would factor out **B**, then because **A + !A** is **A OR !A** the value will be 1(true) so we would end with B
+
+![]()
+
+Lets take another example:
+
+![]()
+
+From the first 2 variable sections, we factor out **BCD** and get **A + !A**, which we saw from before becomes 1(true). The output of this is now BCD from the first step.
+
+From the second 2 variable sections, we factor our **B!CD** and also get **A + !A**, like above equals 1(true). The output of this is now B!CD from the second step.
+
+We are now left with **BCD + B!CD**
+
+From this, **BD** are factored out to get **C + !C** which like above equals 1(true), so therefore the result of the simplification is **BD**
+
+![]()
+
+As you can see, doing this by hand could get very tiring and could also get very hard to track variables if there are many of them.  So we will be showing off the K-maps method which considerably makes this entire process simpler.
