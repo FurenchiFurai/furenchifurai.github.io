@@ -25,7 +25,7 @@ Longer circuits equate to more time required for electrons to flow through, resu
 
 From this, simplying boolean equations (circuits) makes it better for cost and effciency.
 
-#### How to simply circuits
+#### How to simplfy circuits
 
 Suprising it is simple to regular algebra
 
