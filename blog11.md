@@ -15,7 +15,7 @@ Since not all operations or expressions are going to be basic, there should be w
 
 #### Starting Off, why should there be circuit simplication?
 
-As said last week, these operations are also used in circuitry to calculate outopuit.  But why should we simplify these equations?
+As said last week, these operations are also used in circuitry to calculate output.  But why should we simplify these equations?
 
 Like in programming, a longer program usually takes longer to execute, and that is also shared with long circuits. 
 
