@@ -25,7 +25,7 @@ The current steps to start:
 4. Group efficiently
 5. Simplfy solution 
 
-#### Example 1, 2 Variable
+#### Example 1, 2 Variable Equation
 
 So for the first example we have **R = AB + !AB**
 
@@ -40,3 +40,19 @@ From there the **1's** are grouped, and in this case the largest and most effici
 
 ![kmap3_ex1C](https://github.com/FurenchiFurai/furenchifurai.github.io/blob/master/images/kmap3_ex1C.png?raw=true)
 ![kmap3_ex1D](https://github.com/FurenchiFurai/furenchifurai.github.io/blob/master/images/kmap3_ex1D.png?raw=true)
+
+This is true since if you do the algebraic method, you would factor out **B**, getting **B(A+!A)** which would also be **B** as well. 
+
+In this case, it was simple enough so there is one solution, but bear in mind that with larger equations, depending on how the grouping was done, there could be multiple different solutions. 
+
+#### Example 2, 3 Variable Equation
+
+So for the next example, we have **R = !A!B!C + !A!BC + !ABC + !AB!C + A!B!C + AB!C**
+
+![kmap3_ex2A](https://github.com/FurenchiFurai/furenchifurai.github.io/blob/master/images/kmap3_ex2A.png?raw=true)
+
+We see 3 variables, **A**, **B**, and **C**, therefore the next step would be to create a truth table. Lets have a random output that looks like this:
+
+![kmap3_ex2B](https://github.com/FurenchiFurai/furenchifurai.github.io/blob/master/images/kmap3_ex2B.png?raw=true)
+
+From this, a K-Map is constructed, where **A** is on the X-axis and **BC** is on the Y-axis.
