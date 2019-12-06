@@ -55,4 +55,26 @@ We see 3 variables, **A**, **B**, and **C**, therefore the next step would be to
 
 ![kmap3_ex2B](https://github.com/FurenchiFurai/furenchifurai.github.io/blob/master/images/kmap3_ex2B.png?raw=true)
 
-From this, a K-Map is constructed, where **A** is on the X-axis and **BC** is on the Y-axis.
+From this, a K-Map is constructed, where **A** is on the X-axis and **BC** is on the Y-axis with the values for each part of the grid filled in according to the values of the truth table
+
+![kmap3_ex2C](https://github.com/FurenchiFurai/furenchifurai.github.io/blob/master/images/kmap3_ex2C.png?raw=true)
+
+From this we start grouping, and the best options are to group the entire top row and group the external columns (wrap around rule). They are factors of 2 (both are 4 items each).  From this we can deduce that the rectangle row is **!A** and the square created from the 2 external columns would be **!C**. So the final solution is **R = !A + !C**
+
+![kmap3_ex2D](https://github.com/FurenchiFurai/furenchifurai.github.io/blob/master/images/kmap3_ex2D.png?raw=true)
+
+#### Final Example, 4 Variable Equation
+
+For this case, we have this equation:
+
+![kmap3_ex3A](https://github.com/FurenchiFurai/furenchifurai.github.io/blob/master/images/kmap3_ex3A.png?raw=true)
+
+We see 4 variables, **A**, **B**, **C** and **D**.  In this case we are going to have the K-Map with the values displayed on it already, so we do not need to construct a truth table.
+
+![kmap3_ex3B](https://github.com/FurenchiFurai/furenchifurai.github.io/blob/master/images/kmap3_ex3B.png?raw=true)
+
+From here, we do the grouping and the most efficient method I saw that works is for the corners to be grouped (this wrap method looks like a diagonal, but technically they wrap like a sphere). Second grouping is the first 2 values on the top and bottom rows to make a square. And the last grouping would be the top 2 of the last column. This yields a grouping that looks like this:
+
+![kmap3_ex3C](https://github.com/FurenchiFurai/furenchifurai.github.io/blob/master/images/kmap3_ex3C.png?raw=true)
+
+From these groupings we can conclude that  
