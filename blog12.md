@@ -77,4 +77,8 @@ From here, we do the grouping and the most efficient method I saw that works is 
 
 ![kmap3_ex3C](https://github.com/FurenchiFurai/furenchifurai.github.io/blob/master/images/kmap3_ex3C.png?raw=true)
 
-From these groupings we can conclude that  
+From these groupings we can conclude that is the most simplified grouping. From the first grouping (corners), we get **!B!C**. From the second grouping (the square the wraps the top and bottom) we get **!B!D**. Then for the final grouping (top 2 of the far right column) we get **!AC!D**. 
+
+So the final result is **R = !B!C + !B!D + !AC!D**
+
+Hopefully you should be able to do some simple K-Maps with this knowledge  
