@@ -26,4 +26,15 @@ Just a picture of a HDD:
 
 #### SSD vs HDD
 
+So which should you choose? SSD or HDD?
+I found a graphic from this [site](https://www.securedatarecovery.com/blog/pros-cons-hard-drive-vs-solid-state-drive) showing the pros and cons of SSD vs HDD
+
+![ssdvshdd](https://www.securedatarecovery.com/blog/wp-content/uploads/2019/08/HDD-vs-SSD.jpg)
+
+The infographic shows that SSD's have higher capacity, better read and write speeds, longer time before failure, smaller size but have a higher cost per GB. The only aspect where HDD is better than SSD is that is much much cheaper compared to SSD at the same capacity level.  Also because HDD's have moving parts (platters and arm) they are more susceptible to physical movements which could mess up the interior.
+
 #### NVMe
+
+What exactly is NVMe?
+
+
