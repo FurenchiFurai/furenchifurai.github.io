@@ -37,4 +37,6 @@ The infographic shows that SSD's have higher capacity, better read and write spe
 
 What exactly is NVMe?
 
+It stands for Non-Volatile Memory Express or Non-Volatile Memory Host Controller Interface, which is a specification for non-volatile storage that are attached via PCIe.  Majority of this uses NAND flash memory and comes in many forms (SSD's on Mac, M.2 for PC). Its design allows the hardware and software to do parallel tasks to the fullest which leads to reduced I/O overhead and a large performance improvement. 
 
+Currently, I believe this is the best "bang for your buck" in terms of SSD storage if you are planning to build a computer. NVMe has better read/write speeds and is only slightly a bit more expensive when comparing the same capacity.  I do think that a majority of people will be switching to this in the near future as it gets even cheaper and faster.
