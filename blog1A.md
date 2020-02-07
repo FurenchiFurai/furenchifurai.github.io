@@ -42,7 +42,7 @@ Both Red and Black have the same actuation point and travel distance (2mm and 4m
 
 So what does this all mean? If you want faster performance, choose Silvers. If you feel Reds press to easily and want some resistance, choose Blacks. Red is the most basic and easy to use one, so choose it if you are not sure what else you like.
 
-Pictured (from left to right) are Red, Silver and Black
+Pictured (from left to right) are Red, Silver and Black.
 
 ![redswitch](https://mechanicalkeyboards.com/switches/images/Cherry_MX_Red_Switch_eb4bf_thumb.png) ![silverswitch](https://mechanicalkeyboards.com/switches/images/Cherry_MX_Silver_Switch_37feb_thumb.png) ![blackswitch](https://mechanicalkeyboards.com/switches/images/Cherry_MX_Black_Switch_30ef1_thumb.png) 
 
@@ -61,6 +61,8 @@ Brown is the more common tactile switch and has a lighter operation force at 55c
 They both have the same actuation point and travel distance (2mm and 4mm respectively)
 
 So what does this all mean for tactile switches? If you want feedback for when the key press is recognized by the conmputer, you should get a tactile switch over a linear switch.  Depending on how much strength you can choose a lighter force through Brown and a slightly heavier force with the Clear. Brown's are the most basic after Red, so you will most likely find more Brown switches compared to Clear ones.
+
+Pictured (from left to right) are Brown and Clear.
 
 ![brownswitch](https://mechanicalkeyboards.com/switches/images/Cherry_MX_Brown_Switch_37dd6_thumb.png) ![clearswitch](https://mechanicalkeyboards.com/switches/images/Cherry_MX_Clear_Switch_19a92_thumb.png)
 
