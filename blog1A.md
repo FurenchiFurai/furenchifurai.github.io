@@ -28,6 +28,10 @@ These are just terms I will be using to showcase the types of switches
 
 Linear switches are the most common switches manufactured and are the simplest to understand. Simply, pressing the key down a specfic distance will activate the key. This switch is the closest to regular (membrane) switch usage where most people would *bottom out* the key whenever they wanted to press on it. 
 
+ere is a gif of the moving parts of a linear switch
+
+![redswitchgif](https://www.dygma.com/wp-content/uploads/2018/05/red-switch-optimized.gif)
+
 There are 3 styles for linear switches: Red, Black, and Silver
 
 Red and Silver both have a lighter operation force 45cN, while Black has a slightly stiffer operation force at 60cN.
@@ -38,9 +42,9 @@ Both Red and Black have the same actuation point and travel distance (2mm and 4m
 
 So what does this all mean? If you want faster performance, choose Silvers. If you feel Reds press to easily and want some resistance, choose Blacks. Red is the most basic and easy to use one, so choose it if you are not sure what else you like.
 
-Here is a gif of the moving parts of a linear switch
+Pictured (from left to right) are Red, Silver and Black
 
-![redswitch](https://www.dygma.com/wp-content/uploads/2018/05/red-switch-optimized.gif) 
+![redswitch](https://mechanicalkeyboards.com/switches/images/Cherry_MX_Red_Switch_eb4bf_thumb.png) ![silverswitch](https://mechanicalkeyboards.com/switches/images/Cherry_MX_Silver_Switch_37feb_thumb.png) ![blackswitch](https://mechanicalkeyboards.com/switches/images/Cherry_MX_Black_Switch_30ef1_thumb.png) 
 
 #### Tactile Switches
 
