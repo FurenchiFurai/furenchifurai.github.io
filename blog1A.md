@@ -28,11 +28,11 @@ These are just terms I will be using to showcase the types of switches
 
 Linear switches are the most common switches manufactured and are the simplest to understand. Simply, pressing the key down a specfic distance will activate the key. This switch is the closest to regular (membrane) switch usage where most people would *bottom out* the key whenever they wanted to press on it. 
 
-ere is a gif of the moving parts of a linear switch
+Here is a gif of the moving parts of a linear switch
 
 ![redswitchgif](https://www.dygma.com/wp-content/uploads/2018/05/red-switch-optimized.gif)
 
-There are 3 styles for linear switches: Red, Black, and Silver
+There are 3 styles for linear switches: **Red, Black, and Silver**
 
 Red and Silver both have a lighter operation force 45cN, while Black has a slightly stiffer operation force at 60cN.
 
@@ -48,7 +48,21 @@ Pictured (from left to right) are Red, Silver and Black
 
 #### Tactile Switches
 
-The other common switch
+Tactile Switches are a little different compared to Linear Switches with the major change being a tactile bump when pressing on the key. In all cases, when the user presses on the key and feels the bump, the bump is where the actuation point is at. Meaning when the user feels the bump is when the key is recognized by the conmputer as a key press. People who are used to tactile switches will usually press until the bump then continue typing on another key to create the optimal speed of key presses.
+
+Here is a gif of the moving parts of a tactile switch
+
+![tactileswitchgif](https://www.dygma.com/wp-content/uploads/2018/05/brown-switch-optimized.gif)
+
+There are 2 styles for tactile switches, **Brown and Clear**
+
+Brown is the more common tactile switch and has a lighter operation force at 55cN, while Clear has a slightly stiffer operation foce at 65cN.
+
+They both have the same actuation point and travel distance (2mm and 4mm respectively)
+
+So what does this all mean for tactile switches? If you want feedback for when the key press is recognized by the conmputer, you should get a tactile switch over a linear switch.  Depending on how much strength you can choose a lighter force through Brown and a slightly heavier force with the Clear. Brown's are the most basic after Red, so you will most likely find more Brown switches compared to Clear ones.
+
+![brownswitch](https://mechanicalkeyboards.com/switches/images/Cherry_MX_Brown_Switch_37dd6_thumb.png) ![clearswitch](https://mechanicalkeyboards.com/switches/images/Cherry_MX_Clear_Switch_19a92_thumb.png)
 
 #### Clicky Tactile Switches
 
