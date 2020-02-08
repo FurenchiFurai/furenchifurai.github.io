@@ -28,7 +28,7 @@ These are just terms I will be using to showcase the types of switches
 
 Linear switches are the most common switches manufactured and are the simplest to understand. Simply, pressing the key down a specfic distance will activate the key. This switch is the closest to regular (membrane) switch usage where most people would *bottom out* the key whenever they wanted to press on it. 
 
-Here is a gif of the moving parts of a linear switch
+Here is a gif of the moving parts of a linear switch (**Cherry MX Red**)
 
 ![redswitchgif](https://www.dygma.com/wp-content/uploads/2018/05/red-switch-optimized.gif)
 
@@ -50,7 +50,7 @@ Pictured (from left to right) are Red, Silver and Black.
 
 Tactile Switches are a little different compared to Linear Switches with the major change being a tactile bump when pressing on the key. In all cases, when the user presses on the key and feels the bump, the bump is where the actuation point is at. Meaning when the user feels the bump is when the key is recognized by the conmputer as a key press. People who are used to tactile switches will usually press until the bump then continue typing on another key to create the optimal speed of key presses.
 
-Here is a gif of the moving parts of a tactile switch
+Here is a gif of the moving parts of a tactile switch (**Cherry MX Brown**)
 
 ![tactileswitchgif](https://www.dygma.com/wp-content/uploads/2018/05/brown-switch-optimized.gif)
 
@@ -68,4 +68,26 @@ Pictured (from left to right) are Brown and Clear.
 
 #### Clicky Tactile Switches
 
-The final switch
+Clicky tactile switches are the final type of switch and are basically a deviant of the tactile switch. Simply put the difference is that when the actuation point is reached to count as a key press, there is an audible "click" sound. There will still be feedback by touch but also by sound as well. These switches can get loud pretty quickly if someone is very good at typing.
+
+Here is a gif of the moving parts of a clicky tactile switch (**Cherry MX Blue**)
+
+![clickyswitchgif](https://www.dygma.com/wp-content/uploads/2018/05/blue-switch-optimized.gif)
+
+There are 3 main styles of clicky tactile, **Blue, Green, and White**
+
+Blue is the most common clicky switch, at has the lightest operation force at 55cN, while Green and White have a slightly heavier operation at 80cN.
+
+Both the Blue and Green have the same actuation point and travel distance (2.2mm and 4mm respectively), however I could not find the info for the White but I would assume it would be similar.
+
+The last difference is the White switches have a less audible click compared to the Green.
+
+So what does this all mean for clicky switches? If you like to hear the switch go off, then you can choose these types of switches, they are not recommended if you are afraid of making noise or causing disruptions.  Blues are the most common, if you like a slighty heavier force then you can choose Green, and if you do not wanna hear the click too much, you can choose White.
+
+Pictured (from left to right) are Blue, Green and White.
+
+![blueswitch](https://mechanicalkeyboards.com/switches/images/Cherry_MX_Blue_Switch_5a318_thumb.png) ![greenswitch](https://mechanicalkeyboards.com/switches/images/Cherry_MX_Green_Switch_e2f01_thumb.png) ![whiteswitch](https://mechanicalkeyboards.com/switches/images/Cherry_MX_White_Switch_0925a_thumb.png)
+
+#### Conclusion
+
+There are many types of mechanical switches and in this blog I only have shown the 3 types of 1 brand. Keep in mind that there are other variations that can fit your style of typing more than the ones listed here.  It all depends on what you like. However if you are not sure where to start, I recommend going to the nearest computer electronic shop to see what types of styles fit you the best.  You can really only decide after feeling how the switch is.
