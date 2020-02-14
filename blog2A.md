@@ -25,7 +25,7 @@ So as in the photo shown above, there are 3 layers
 
 **However** this is a little different in laptop keyboards, since there is much less space, so everything is a bit more compact. The membrane keyboard for laptops uses a special switch called the "scissor-switch" which looks something like this:
 
-![scissorswitch](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRVUw1b-xmYtwKWJqnvlZSCBDPBtYUBnq0dg-lswYIKq1cexTlv)
+![scissorswitch](https://edge.alluremedia.com.au/m/l/2018/07/scissormech.png)
 
 
 
