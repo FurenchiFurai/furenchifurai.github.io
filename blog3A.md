@@ -17,3 +17,11 @@ In very basic terms, Virtual Reality is a simulation that can be interacted with
 This is a stark contrast to **A**ugmented **R**eality (**AR**) which according to [wikipedia](https://en.wikipedia.org/wiki/Augmented_reality) is "an interactive experience of a real-world environment where the objects that reside in the real world are enhanced by computer-generated perceptual information, sometimes across multiple sensory modalities, including visual, auditory, haptic, somatosensory and olfactory."
 
 What differentiates **AR** to **VR** is that **AR** creates a computer simulation on top of the real world environment as a way to "interact" with the computer simulation. Currently this is the more developed technology as the technology only requires a multiple camera system to correctly gauge depth.  From this, majority of multiple len smartphones these days are able to simulate **AR** to create new interactive methods for entertainment and media.
+
+Below are two gifs, left one is 3rd person view of whats happening in this VR game and the right one is a different first person view of what the user would see if there were to play the VR game
+
+Beat Saber:
+
+![beatsaber3rd](https://media2.giphy.com/media/kyidAOFQzKSlDNwRkb/giphy.gif) ![beatsaber1st](https://media3.giphy.com/media/JRgLEZCsivjHoRWpb2/giphy.gif)
+
+As you can see, the virtual simulation is built around the player to create a more immersive experience that looks very realistic but completely different from the real world. 
