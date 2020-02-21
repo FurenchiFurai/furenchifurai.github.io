@@ -11,7 +11,9 @@ We will also go over the types of hardware that VR requires besides a working co
 #### What exactly is Virtual Reality?
 
 The direct definition of Virtual Reality off [wikipedia](https://en.wikipedia.org/wiki/Virtual_reality) is 
-```A simulated experience that can be similar to or completely different from the real world. Applications of virtual reality can include entertainment (i.e. video games) and educational purposes (i.e. medical or military training). Other, distinct types of VR style technology include augmented reality and mixed reality.```
+```markdown
+**A simulated experience that can be similar to or completely different from the real world. Applications of virtual reality can include entertainment (i.e. video games) and educational purposes (i.e. medical or military training). Other, distinct types of VR style technology include augmented reality and mixed reality.**
+```
 
 In very basic terms, Virtual Reality is a simulation that can be interacted with using the touch, sight and sound. The simulation is seperate from the real world and besides designated areas for movement, rarely uses the surrounding areas of the user.
 
