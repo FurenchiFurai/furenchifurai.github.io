@@ -22,7 +22,7 @@ What differentiates **AR** to **VR** is that **AR** creates a computer simulatio
 
 Below are two gifs, top one is 3rd person view of whats happening in this VR game and the bottom one is a different first person view of what the user would see if there were to play the VR game
 
-Beat Saber:
+Virtual Reality Game [Beat Saber](https://beatsaber.com/):
 
 ![beatsaber3rd](https://media2.giphy.com/media/kyidAOFQzKSlDNwRkb/giphy.gif) ![beatsaber1st](https://media3.giphy.com/media/JRgLEZCsivjHoRWpb2/giphy.gif)
 
