@@ -27,11 +27,11 @@ This is a stark contrast to **A**ugmented **R**eality (**AR**) which according t
 
 What differentiates **AR** to **VR** is that **AR** creates a computer simulation on top of the real world environment as a way to "interact" with the computer simulation. Currently this is the more developed technology as the technology only requires a multiple camera system to correctly gauge depth.  From this, majority of multiple len smartphones these days are able to simulate **AR** to create new interactive methods for entertainment and media.
 
-Below is a gif of an AR game that is about popular board games. 
+Below is a gif of an AR game that was popular a few years ago, Pokemon Go. 
 
-![ar_game](https://i.pinimg.com/originals/9d/fc/ef/9dfcef6ff8dd980ad5a83c5dc70ffc47.gif)
+![ar_game](https://media2.giphy.com/media/ugKUBFkKpbA64/source.gif)
 
-From the gif, you can see that the app utilizes the phones camera to "interact" with a digital framework copy of the real world and lets the user place a Connect 4 game on the floor of the room.
+From the gif, you can see that the app utilizes the phones camera to "interact" with a digital framework copy of the real world and lets the user see and capture Pokemon that show up around the world.
 
 Next we will talk about the different gear that is needed for Virtual Reality what are available for the consumer to use. 
 
