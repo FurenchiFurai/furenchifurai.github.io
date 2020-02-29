@@ -16,8 +16,9 @@ Basically, light is controlled by a twisting motion (hence the name) between a c
 
 These panels are usually cheaper and more affordable and take up a majority of the market since they are easier and less costly to manufacture.  But because of this there are some negatives that cannot be overlooked. TN panels use a 6-bit channel which equates to 64 shades of colors, which contrasts the 8-bit channel that can output 256 shades of color (the max amount aka the RGB 256,256,256). This usually leads to less color accuracy and when viewed at a narrow angle (aka from the side) the colors apppear "washed" and dull.
 
-Pro: cheap for the quality
-Con: cheap for the quality
+**PRO**: cheap for the quality
+
+**CON**: cheap for the quality
 
 ![IPSvsTN](https://lh3.googleusercontent.com/proxy/pD-g502jNL5eZykuAneVWPfJrxbB1DBQR6acrlMK7Ki8hB7rW8ihtz-7B1_nfXA29K-uuBZlnxtRFYsG16Cs4c2_TNc44Cjp7td3931i6j4VE6ft8os)
 
