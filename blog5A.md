@@ -20,4 +20,4 @@ This is the second iteration of computer mouse evolution, a more sleeker form fa
 
 ![opticalmouse](https://images.wisegeek.com/opticalmousebottomshot.jpg)
 
-To fix the issues with reading the rubber ball, a newer technology for mouse sensors was created, the optical sensor. 
+To fix the issues with reading the rubber ball, a newer technology for mouse sensors was created, the optical sensor. This newer sensor fixed a majority of the issues that the physical sensors faced, which was dust and debris. The new sensor used a reflecting light beam to check the surface that the mouse is on. This entire sensor is enclosed into the mouse and has no moving parts so dust and debris usually only makes the sensor a little unresponsive but cannot completely disable the sensor like the rubber ball. However the main downside of the optical sensor is that it cannot track well on transparent surfaces. Because of how the light beam is bounced of opaque surfaces, when using on tables that are transparent, like glass, the beam has nothing to bounce off of so there is a high chance that the mouse will stop responding to movements unless you move it to a opaque/solid surface.
