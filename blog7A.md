@@ -24,6 +24,8 @@ Normally when you want to access things on the internet, you just connect to you
 
 When you use a VPN, it uses encryption to scramble the data while its being sent across the network, which makes your data secure and prevents eavsdroppers to easily see the data you are sending.
 
+![VPN1](https://i.ytimg.com/vi/MT68ar4JC1g/maxresdefault.jpg)
+
 Here are 5 things that having a VPN helps hide
 1. Browsing history 
 
@@ -41,5 +43,5 @@ Most streaming services have shows that are region locked and cannot be accessed
 
 Since your device is the one that must connect to the websites you visit, naturally your devices will be targeted by malicious people that try to exploit your web activity to gain access to information that is valuable to you. Through the encryption that VPN's impose, it makes it very difficult for malicious attacks to happen.
 
-
+![VPN2](https://www.webhostingsecretrevealed.net/wp-content/uploads/2018/12/what-is-vpn-service.jpg)
 
