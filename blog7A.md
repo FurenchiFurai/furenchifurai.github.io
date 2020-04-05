@@ -27,4 +27,19 @@ When you use a VPN, it uses encryption to scramble the data while its being sent
 Here are 5 things that having a VPN helps hide
 1. Browsing history 
 
+When you browse the web, everything you do is tracked, either by your ISP or your web browser or even the websites you visit.  Because these sites track you, they can compile your data and force ads for things they think you need which is an invasion of your privacy.  By using a VPN, you mitigate most of these issues, since your information is encrypted.
+
+2. Your IP address and location
+
+Your IP address is shown to yoru ISP and the website you've been to but when you use a VPN, it masks your IP address, and even though you visit the website it does not show your website, it shows the IP address of the VPN.
+
+3. Your location for streaming 
+
+Most streaming services have shows that are region locked and cannot be accessed while in other regions. Because of this using a VPN that allows you to appear in a different location/region will let you access those streaming services.
+
+4. Your devices and web activity
+
+Since your device is the one that must connect to the websites you visit, naturally your devices will be targeted by malicious people that try to exploit your web activity to gain access to information that is valuable to you. Through the encryption that VPN's impose, it makes it very difficult for malicious attacks to happen.
+
+
 
