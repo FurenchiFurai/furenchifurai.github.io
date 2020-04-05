@@ -27,6 +27,7 @@ When you use a VPN, it uses encryption to scramble the data while its being sent
 ![VPN1](https://i.ytimg.com/vi/MT68ar4JC1g/maxresdefault.jpg)
 
 Here are 4 things that having a VPN helps hide
+
 **.1. Browsing history** 
 
 When you browse the web, everything you do is tracked, either by your ISP or your web browser or even the websites you visit.  Because these sites track you, they can compile your data and force ads for things they think you need which is an invasion of your privacy.  By using a VPN, you mitigate most of these issues, since your information is encrypted.
