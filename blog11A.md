@@ -2,7 +2,7 @@
 
 ### Topic - IoT (Internet of Things)
 
-With the annoucnement of the newest iPhone SE, I've had a good amount of family members ask about it and were talking about also maybe getting Apple Watches or iPads and this led to me to think about IoT.  With the current conviniences of current technology, there are abundant amounts of devices that are now miniature computer that process a large amount of information for us. I will be talking about what is IoT, well known devices and how it is more important than most people realize.
+With the annoucnement of the newest iPhone SE, I've had a good amount of family members ask about it and were talking about also maybe getting Apple Watches or iPads and this led to me to think about IoT.  With the current conviniences of current technology, there are abundant amounts of devices that are now miniature computer that process a large amount of information for us. I will be talking about what is IoT, well known devices and how it is more affected by security concerns.
 
 #### What is IoT?
 
@@ -12,4 +12,5 @@ So in a more simple approach, any device that is able to transmit data over a ne
 
 ![iotweb](https://media.threatpost.com/wp-content/uploads/sites/103/2019/12/18112655/slideshow-1.png)
 
-                                                                                                                                                                                                                                                                                                       
+#### What are common devices?
+
